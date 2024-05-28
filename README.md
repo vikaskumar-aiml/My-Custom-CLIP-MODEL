@@ -1,4 +1,3 @@
-# my_projects
 Here's a README.md file for the provided code:
 
 # CLIP Image-Text Matching
